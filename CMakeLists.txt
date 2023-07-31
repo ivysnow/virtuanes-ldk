@@ -15,6 +15,6 @@ PRIVATE
     LDK_EXPORTS
 )
 set_target_properties(LDK PROPERTIES
-    OUTPUT_NAME "Japanese"
+    OUTPUT_NAME "English"
     SUFFIX ".vlp"
 )

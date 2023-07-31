@@ -15,11 +15,11 @@ INT	GetVlpVersion( void )
 
 void	GetVlpLanguage( LPSTR lpLanguege )
 {
-	strcpy( lpLanguege, "Japanese" );
+	strcpy( lpLanguege, "English(US)" );
 }
 
 LCID	GetVlpLocaleID( void )
 {
-	return	0x411;
+	return	0x409;
 }
 
